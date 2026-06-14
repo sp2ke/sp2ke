@@ -5,5 +5,8 @@
 <p align=justify> ${\textsf{\color{#72645c}  c+h encouraged always , iwc always }}$
 <p align=justify> ${\textsf{\color{#a66b59} usually off tab playing minecraft or cookierun }}$
 <p align=justify> ${\textsf{\color{#72645c} just whisper to grab my attention }}$
-
-  [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=tocults&bg_color=847e7b)](https://www.last.fm/user/tocults)
+<p align="justify">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ndl5v41xc220ln845nj3cn4el&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=e9ece2&bar_color_cover=false">
+  </a>
+</p>
