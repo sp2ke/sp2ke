@@ -22,8 +22,6 @@
 <br>
 <p align=center><sub> 
 
-  <sup>ac VyKozume4279 </sup>
-
   <br>
   
   <p align="center">
@@ -32,3 +30,4 @@
   </a>
 </p>
 
+  <sup>ac VyKozume4279 </sup>
