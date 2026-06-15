@@ -4,7 +4,7 @@
 <p align=justify> ${\textsf{\color{#b74998} you can find me here}}$ <a href="https://todo.atabook.org/"> atabook</a>${\textsf{\color{#c9488b} and}}$ <a href="https://rentry.co/mcdupe">rentry</a>
 <p align=justify> ${\textsf{\color{#d64b7d}  c+h encouraged always , iwc always }}$
 <p align=justify> ${\textsf{\color{#e45d5d} usually off tab playing minecraft or cookierun }}$
-<p align=justify> ${\textsf{\color{#da8a2f} just whisper to grab my attention }}$
+<p align=justify> ${\textsf{\color{#da8a2f} ata > whispers; i won't reply unless i've already replied to your ata }}$
 <p align="justify">
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ndl5v41xc220ln845nj3cn4el&redirect=true">
