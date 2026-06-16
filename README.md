@@ -15,7 +15,7 @@
 <br>
 
  <sup>**c*h enc  iwc always**  </sup><br>
-    <sup>[atabook](https://todo.atabook.org/)  [rentry](https://rentry.co/mcdupe) </sup>
+    <sup>[atabook](https://todo.atabook.org/)  [rentry](https://rentry.co/tranquilize) </sup>
 
   <br>
 <p align=center> <img width="250" height="auto" src="https://file.garden/ab34Y4SjXgezM_wx/Untitled56_20260615010122.png"/>
