@@ -3,7 +3,7 @@
 
 
   
-##### <p align=center> <img src="https://komarev.com/ghpvc/?username=sp2ke&style=flat&color=red&label=CHUDDIES&base=0&abbreviated=true" alt="GitHub Profile Views" /> </p>
+
 
 ᯏ‧͙˖ 🪲○ᩙ᠁  ྀི͚ㅤㅤ  
 
