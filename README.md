@@ -1,11 +1,12 @@
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=sp2ke&style=plastic&color=green&label=𖢒♡̩͙&base=0&abbreviated=true" alt="GitHub Profile Views" /> ‎
+
+[![Hits](https://hits.sh/github.com/sp2ke.svg?style=flat-square&label=𖢒♡̩͙&extraCount=712&color=ffc8dd&labelColor=ffc8dd)](https://hits.sh/github.com/sp2ke/)
 <br>
 
-  
+
 
 <br>
-ᯏ‧͙˖ 🪲○ᩙ᠁  ྀི͚ㅤㅤ  
+ᯏ‧͙˖ 🐇○ᩙ᠁  ྀི͚ㅤㅤ  
 
 <br>
 <sub>   mesa or nikita  17yo <align="left"> </sub>
@@ -18,7 +19,7 @@
     <sup>[atabook](https://todo.atabook.org/) [pronounscc](https://pronouns.cc/@canon) [rentry](https://rentry.co/tranquilize) </sup>
 
   <br>
-<p align=center> <img width="250" height="auto" src="https://file.garden/ab34Y4SjXgezM_wx/Untitled56_20260615010122.png"/>
+<p align=center> <img width="250" height="auto" src="https://file.garden/ab34Y4SjXgezM_wx/tumblr_996378d3b047ff046d5ee5523c0b5664_65ce5696_1280__fliter--blackCurrant-and-mint__channel--red__mode--normal.png"/>
 <br>
 <p align=center><sub> 
 
