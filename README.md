@@ -8,4 +8,4 @@
 
 </p>
 
-
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=13&duration=5000&pause=3500&color=907a56&center=true&vCenter=true&width=435&lines=I'm+gonna+pop+your+little+totem,+and+kill+everybody+in+your+stupid+army."/>
