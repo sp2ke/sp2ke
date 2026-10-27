@@ -1,13 +1,14 @@
 <br>
 <div align="center">
-    
-
+     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ndl5v41xc220ln845nj3cn4el&redirect=true">
+     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ndl5v41xc220ln845nj3cn4el&cover_image=true&theme=natemoo-re&border_radius=15&bar_color=907a56&show_offline=true">
+     </a>
+    <br>
 ‎  .‎ ‎ ‧ 𓆝 𓆟 𓆞  ݂
     
- <sup>**c*h enc  iwc always**  </sup><br>
-  <sup>**-15 & doubles dni  w2i  avoidant** </sup><br>
+ <sup>**c*h enc˳   █▓   iwc always˳**  </sup><br>
+  <sup>**-15 & doubles dni˳ w2i˳ avoidant˳** </sup><br>
     <sup>[atabook](https://todo.atabook.org/)   [pronounscc](https://pronouns.cc/@canon)   [rentry](https://rentry.co/tranquilize) </sup><br>
-    <sup> gift me spokes please </sup>
 
 ![](https://komarev.com/ghpvc/?username=sp2ke&color=907a56&style=flat-square&label=࿚ㅤ۪₊𖥔.)
 
