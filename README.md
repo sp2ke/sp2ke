@@ -8,7 +8,7 @@
     
  <sup>**c*h enc˳   █▓   iwc always˳**  </sup><br>
   <sup>**-15 & doubles dni˳ w2i˳ avoidant˳** </sup><br>
-    <sup>[atabook](https://todo.atabook.org/)   [pronounscc](https://pronouns.cc/@baton)   [fluffle](https://fluffle.cc/jailhouse) </sup><br>
+    <sup>[atabook](https://todo.atabook.org/)   [pronounscc](https://pronouns.cc/@baton)   [fluffle](https://fluffle.cc/prisonfarm) </sup><br>
     <sup> whisp 4 skin trades plox˳ </sup>
 
 ![](https://komarev.com/ghpvc/?username=sp2ke&color=636363&style=flat-square&label=࿚ㅤ۪₊𖥔.)
