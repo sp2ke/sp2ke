@@ -1,8 +1,4 @@
-<br>
-<div align="center">
-     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ndl5v41xc220ln845nj3cn4el&redirect=true">
-     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ndl5v41xc220ln845nj3cn4el&cover_image=true&theme=natemoo-re&border_radius=15&bar_color=636363&show_offline=true">
-     </a>
+
     <br>
 ‎  .‎ ‎ ‧ 𓆝 𓆟 𓆞  ݂
     
