@@ -1,4 +1,1 @@
-<div align= center> 
-‎
-    <sup>[atabook](https://leland.atabook.org/)   [pronounscc](https://pronouns.cc/@baton)   [fluffle](https://fluffle.cc/prisonfarm) </sup><br>
-</div>
+<div align= center> <sup> <a href="https://leland.atabook.org/">atabook</a>    <a href= "https://pronouns.cc/@baton">prns</a>    <a href= "https://fluffle.cc/prisonfarm">fluffle</a> </sup> </div>
