@@ -1,1 +1,2 @@
-<div align= center> <sup> <a href="https://leland.atabook.org/">atabook</a>    <a href= "https://pronouns.cc/@baton">prns</a>    <a href= "https://fluffle.cc/prisonfarm">fluffle</a> </sup> </div>
+<div align= center>  <a href= "https://fluffle.cc/rhode"> fluffle </a> <br>
+i'll properly make this when i gaf just read my fluffle for now </div>
